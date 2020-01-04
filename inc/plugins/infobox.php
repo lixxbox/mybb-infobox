@@ -1,7 +1,7 @@
 <?php
 /*
 "Infobox" for MyBB
-Add MyCodes for infoboxes and expandable infoboxes.
+Add MyCodes for infoboxes and extdable infoboxes.
 lixxbox@3DDC
 04.01.2020
 */
